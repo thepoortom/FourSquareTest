@@ -1,0 +1,420 @@
+[
+   {
+      "id":"4d3295d7ceb62d43366cea61",
+      "name":"Пельменная",
+      "location":{
+         "address":"пр. Красноярский Рабочий, 66",
+         "crossStreet":"ООО «Евгения»",
+         "lat":56.01163902219007,
+         "lng":92.96849544579148,
+         "labeledLatLngs":[
+            {
+               "label":"display",
+               "lat":56.01163902219007,
+               "lng":92.96849544579148
+            }
+         ],
+         "distance":332,
+         "cc":"RU",
+         "city":"Красноярск",
+         "state":"Красноярский край",
+         "country":"Россия",
+         "formattedAddress":[
+            "пр. Красноярский Рабочий, 66 (ООО «Евгения»)",
+            "Красноярск",
+            "Россия"
+         ]
+      },
+      "categories":[
+         {
+            "id":"52e928d0bcbc57f1066b7e9c",
+            "name":"Пельменная",
+            "pluralName":"Пельменные",
+            "shortName":"Пельмени",
+            "icon":{
+               "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+               "suffix":".png"
+            },
+            "primary":true
+         }
+      ],
+      "referralId":"v-1571577696",
+      "hasPerk":false
+   },
+   {
+      "id":"51b036b7498e9029b0e36be4",
+      "name":"Лось и Лосось",
+      "location":{
+         "address":"ул. Взлетная, 6а",
+         "lat":56.03421798097647,
+         "lng":92.91634655765398,
+         "labeledLatLngs":[
+            {
+               "label":"display",
+               "lat":56.03421798097647,
+               "lng":92.91634655765398
+            }
+         ],
+         "distance":4352,
+         "postalCode":"660135",
+         "cc":"RU",
+         "city":"Красноярск",
+         "state":"Красноярский край",
+         "country":"Россия",
+         "formattedAddress":[
+            "ул. Взлетная, 6а",
+            "660135, Красноярск",
+            "Россия"
+         ]
+      },
+      "categories":[
+         {
+            "id":"4bf58dd8d48988d16d941735",
+            "name":"Кафе",
+            "pluralName":"Кафе",
+            "shortName":"Кафе",
+            "icon":{
+               "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/cafe_",
+               "suffix":".png"
+            },
+            "primary":true
+         }
+      ],
+      "referralId":"v-1571577696",
+      "hasPerk":false
+   },
+   {
+      "id":"555e2335498e3205c747f039",
+      "name":"«Максимилианс» Красноярск",
+      "location":{
+         "address":"ул. Партизана Железняка, д. 17",
+         "lat":56.03884084064608,
+         "lng":92.93580674021506,
+         "labeledLatLngs":[
+            {
+               "label":"display",
+               "lat":56.03884084064608,
+               "lng":92.93580674021506
+            }
+         ],
+         "distance":3817,
+         "cc":"RU",
+         "city":"Красноярск",
+         "state":"Красноярский край",
+         "country":"Россия",
+         "formattedAddress":[
+            "ул. Партизана Железняка, д. 17",
+            "Красноярск",
+            "Россия"
+         ]
+      },
+      "categories":[
+         {
+            "id":"4bf58dd8d48988d1c4941735",
+            "name":"Ресторан",
+            "pluralName":"Рестораны",
+            "shortName":"Ресторан",
+            "icon":{
+               "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+               "suffix":".png"
+            },
+            "primary":true
+         }
+      ],
+      "venuePage":{
+         "id":"130217863"
+      },
+      "referralId":"v-1571577696",
+      "hasPerk":false
+   },
+   {
+      "id":"4e0f31f71838f62321ccdc17",
+      "name":"KFC",
+      "location":{
+         "address":"просп. Красноярский рабочий, 120",
+         "lat":56.004318268732035,
+         "lng":92.9302103631398,
+         "labeledLatLngs":[
+            {
+               "label":"display",
+               "lat":56.004318268732035,
+               "lng":92.9302103631398
+            }
+         ],
+         "distance":2843,
+         "postalCode":"660095",
+         "cc":"RU",
+         "neighborhood":"Кировский",
+         "city":"Красноярск",
+         "state":"Красноярский край",
+         "country":"Россия",
+         "formattedAddress":[
+            "просп. Красноярский рабочий, 120",
+            "660095, Красноярск",
+            "Россия"
+         ]
+      },
+      "categories":[
+         {
+            "id":"4bf58dd8d48988d16e941735",
+            "name":"Ресторан фаст-фуд",
+            "pluralName":"Рестораны фаст-фуд",
+            "shortName":"Фаст-фуд",
+            "icon":{
+               "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/fastfood_",
+               "suffix":".png"
+            },
+            "primary":true
+         }
+      ],
+      "referralId":"v-1571577696",
+      "hasPerk":false
+   },
+   {
+      "id":"511fccc0e4b016d26e816319",
+      "name":"Юрта",
+      "location":{
+         "address":"Терраса ТРЦ \"Июнь\"",
+         "crossStreet":"ул. Партизана Железняка, 23\/2",
+         "lat":56.037205071592055,
+         "lng":92.93635237734453,
+         "labeledLatLngs":[
+            {
+               "label":"display",
+               "lat":56.037205071592055,
+               "lng":92.93635237734453
+            }
+         ],
+         "distance":3654,
+         "cc":"RU",
+         "city":"Красноярск",
+         "state":"Красноярский край",
+         "country":"Россия",
+         "formattedAddress":[
+            "Терраса ТРЦ \"Июнь\" (ул. Партизана Железняка, 23\/2)",
+            "Красноярск",
+            "Россия"
+         ]
+      },
+      "categories":[
+         {
+            "id":"4bf58dd8d48988d1dc931735",
+            "name":"Чайная",
+            "pluralName":"Чайные",
+            "shortName":"Чайная",
+            "icon":{
+               "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/tearoom_",
+               "suffix":".png"
+            },
+            "primary":true
+         }
+      ],
+      "referralId":"v-1571577696",
+      "hasPerk":false
+   },
+   {
+      "id":"5c613e6c9ef8ef002c8ea265",
+      "name":"Академия Кофе",
+      "location":{
+         "address":"проспект имени Газеты Красноярский Рабочий, 93",
+         "lat":56.002936,
+         "lng":92.934857,
+         "labeledLatLngs":[
+            {
+               "label":"display",
+               "lat":56.002936,
+               "lng":92.934857
+            }
+         ],
+         "distance":2623,
+         "postalCode":"660025",
+         "cc":"RU",
+         "city":"Красноярск",
+         "state":"Красноярский край",
+         "country":"Россия",
+         "formattedAddress":[
+            "проспект имени Газеты Красноярский Рабочий, 93",
+            "660025, Красноярск",
+            "Россия"
+         ]
+      },
+      "categories":[
+         {
+            "id":"4bf58dd8d48988d1e0931735",
+            "name":"Кофейня",
+            "pluralName":"Кофейни",
+            "shortName":"Кофейня",
+            "icon":{
+               "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+               "suffix":".png"
+            },
+            "primary":true
+         }
+      ],
+      "referralId":"v-1571577696",
+      "hasPerk":false
+   },
+   {
+      "id":"5d05061e2081a20023aa34c8",
+      "name":"Mike&Molly",
+      "location":{
+         "address":"ул. Партизана Железняка, 26а",
+         "lat":56.031167,
+         "lng":92.918049,
+         "labeledLatLngs":[
+            {
+               "label":"display",
+               "lat":56.031167,
+               "lng":92.918049
+            }
+         ],
+         "distance":4077,
+         "postalCode":"660022",
+         "cc":"RU",
+         "city":"Красноярск",
+         "state":"Красноярская область",
+         "country":"Россия",
+         "formattedAddress":[
+            "ул. Партизана Железняка, 26а",
+            "660022, Красноярск",
+            "Россия"
+         ]
+      },
+      "categories":[
+         {
+            "id":"4bf58dd8d48988d110941735",
+            "name":"Итальянский ресторан",
+            "pluralName":"Итальянские рестораны",
+            "shortName":"Итальянский ресторан",
+            "icon":{
+               "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/italian_",
+               "suffix":".png"
+            },
+            "primary":true
+         }
+      ],
+      "referralId":"v-1571577696",
+      "hasPerk":false
+   },
+   {
+      "id":"56bef8d7cd10a9ebd8a725d5",
+      "name":"Пицца-паста бар «Перцы»",
+      "location":{
+         "address":"Красноярский рабочий 120",
+         "lat":56.00373331520465,
+         "lng":92.93214740712881,
+         "labeledLatLngs":[
+            {
+               "label":"display",
+               "lat":56.00373331520465,
+               "lng":92.93214740712881
+            }
+         ],
+         "distance":2749,
+         "cc":"RU",
+         "country":"Россия",
+         "formattedAddress":[
+            "Красноярский рабочий 120",
+            "Россия"
+         ]
+      },
+      "categories":[
+         {
+            "id":"4bf58dd8d48988d110941735",
+            "name":"Итальянский ресторан",
+            "pluralName":"Итальянские рестораны",
+            "shortName":"Итальянский ресторан",
+            "icon":{
+               "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/italian_",
+               "suffix":".png"
+            },
+            "primary":true
+         }
+      ],
+      "referralId":"v-1571577696",
+      "hasPerk":false
+   },
+   {
+      "id":"5d3d71c4761b9d0008e4a73d",
+      "name":"KFC",
+      "location":{
+         "address":"Мичурина 77",
+         "lat":55.986005,
+         "lng":92.976465,
+         "labeledLatLngs":[
+            {
+               "label":"display",
+               "lat":55.986005,
+               "lng":92.976465
+            }
+         ],
+         "distance":2890,
+         "postalCode":"660000",
+         "cc":"RU",
+         "city":"Красноярск",
+         "state":"Красноярская область",
+         "country":"Россия",
+         "formattedAddress":[
+            "Мичурина 77",
+            "660000, Красноярск",
+            "Россия"
+         ]
+      },
+      "categories":[
+         {
+            "id":"4d4ae6fc7a7b7dea34424761",
+            "name":"Жареные цыплята",
+            "pluralName":"Жареные цыплята",
+            "shortName":"Жареные цыплята",
+            "icon":{
+               "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/friedchicken_",
+               "suffix":".png"
+            },
+            "primary":true
+         }
+      ],
+      "referralId":"v-1571577696",
+      "hasPerk":false
+   },
+   {
+      "id":"564ac647498e70e0d9b346bc",
+      "name":"KFC",
+      "location":{
+         "address":"Металлургов 69",
+         "lat":56.04255985631932,
+         "lng":92.94207095792922,
+         "labeledLatLngs":[
+            {
+               "label":"display",
+               "lat":56.04255985631932,
+               "lng":92.94207095792922
+            }
+         ],
+         "distance":3940,
+         "cc":"RU",
+         "city":"Красноярск",
+         "state":"Красноярский край",
+         "country":"Россия",
+         "formattedAddress":[
+            "Металлургов 69",
+            "Красноярск",
+            "Россия"
+         ]
+      },
+      "categories":[
+         {
+            "id":"4bf58dd8d48988d16e941735",
+            "name":"Ресторан фаст-фуд",
+            "pluralName":"Рестораны фаст-фуд",
+            "shortName":"Фаст-фуд",
+            "icon":{
+               "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/fastfood_",
+               "suffix":".png"
+            },
+            "primary":true
+         }
+      ],
+      "referralId":"v-1571577696",
+      "hasPerk":false
+   }
+]

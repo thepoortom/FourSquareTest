@@ -37,6 +37,18 @@
 		B3C2E3CE2353F79600239839 /* PlaceService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3C2E3CD2353F79600239839 /* PlaceService.swift */; };
 		B3C2E3D12354091B00239839 /* PlacePhotoContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3C2E3CF2354091B00239839 /* PlacePhotoContainer.swift */; };
 		B3C2E3D22354091B00239839 /* PlacePhoto.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3C2E3D02354091B00239839 /* PlacePhoto.swift */; };
+		B3C2E3D6235C83B600239839 /* UserLocationServiceSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3C2E3D5235C83B600239839 /* UserLocationServiceSpec.swift */; };
+		B3C2E3D9235C85AE00239839 /* LocationManagerMock.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3C2E3D8235C85AE00239839 /* LocationManagerMock.swift */; };
+		B3C2E3DB235C92B700239839 /* UserLocationServiceMock.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3C2E3DA235C92B700239839 /* UserLocationServiceMock.swift */; };
+		B3C2E3DE235C975C00239839 /* places.json in Resources */ = {isa = PBXBuildFile; fileRef = B3C2E3DD235C975C00239839 /* places.json */; };
+		B3C2E3E1235C9F5600239839 /* Request+Stubs.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3C2E3E0235C9F5600239839 /* Request+Stubs.swift */; };
+		B3C2E3E3235CA1E700239839 /* RequestManagerMock.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3C2E3E2235CA1E700239839 /* RequestManagerMock.swift */; };
+		B3C2E3E5235CA89800239839 /* PlacesServiceSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3C2E3E4235CA89800239839 /* PlacesServiceSpec.swift */; };
+		B3C2E3E9235CC56C00239839 /* RequestManagerErroredMock.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3C2E3E8235CC56C00239839 /* RequestManagerErroredMock.swift */; };
+		B3C2E3EB235CD03B00239839 /* PlacesServiceMock.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3C2E3EA235CD03B00239839 /* PlacesServiceMock.swift */; };
+		B3C2E3ED235CD24800239839 /* NeighborPlacesServiceSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3C2E3EC235CD24800239839 /* NeighborPlacesServiceSpec.swift */; };
+		B3C2E3EF235CD6BC00239839 /* PlaceServiceSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3C2E3EE235CD6BC00239839 /* PlaceServiceSpec.swift */; };
+		B3C2E3F1235CD7EF00239839 /* place.json in Resources */ = {isa = PBXBuildFile; fileRef = B3C2E3F0235CD7EF00239839 /* place.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -86,6 +98,18 @@
 		B3C2E3CD2353F79600239839 /* PlaceService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaceService.swift; sourceTree = "<group>"; };
 		B3C2E3CF2354091B00239839 /* PlacePhotoContainer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlacePhotoContainer.swift; sourceTree = "<group>"; };
 		B3C2E3D02354091B00239839 /* PlacePhoto.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlacePhoto.swift; sourceTree = "<group>"; };
+		B3C2E3D5235C83B600239839 /* UserLocationServiceSpec.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserLocationServiceSpec.swift; sourceTree = "<group>"; };
+		B3C2E3D8235C85AE00239839 /* LocationManagerMock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManagerMock.swift; sourceTree = "<group>"; };
+		B3C2E3DA235C92B700239839 /* UserLocationServiceMock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserLocationServiceMock.swift; sourceTree = "<group>"; };
+		B3C2E3DD235C975C00239839 /* places.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = places.json; sourceTree = "<group>"; };
+		B3C2E3E0235C9F5600239839 /* Request+Stubs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Request+Stubs.swift"; sourceTree = "<group>"; };
+		B3C2E3E2235CA1E700239839 /* RequestManagerMock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestManagerMock.swift; sourceTree = "<group>"; };
+		B3C2E3E4235CA89800239839 /* PlacesServiceSpec.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlacesServiceSpec.swift; sourceTree = "<group>"; };
+		B3C2E3E8235CC56C00239839 /* RequestManagerErroredMock.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RequestManagerErroredMock.swift; sourceTree = "<group>"; };
+		B3C2E3EA235CD03B00239839 /* PlacesServiceMock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlacesServiceMock.swift; sourceTree = "<group>"; };
+		B3C2E3EC235CD24800239839 /* NeighborPlacesServiceSpec.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NeighborPlacesServiceSpec.swift; sourceTree = "<group>"; };
+		B3C2E3EE235CD6BC00239839 /* PlaceServiceSpec.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceServiceSpec.swift; sourceTree = "<group>"; };
+		B3C2E3F0235CD7EF00239839 /* place.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = place.json; sourceTree = "<group>"; };
 		F528997051CD5134DC29FCFE /* Pods_FourSquareProjectTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FourSquareProjectTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB9BA06693E96446D954346C /* Pods-FourSquareProjectTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FourSquareProjectTests.debug.xcconfig"; path = "Target Support Files/Pods-FourSquareProjectTests/Pods-FourSquareProjectTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -173,6 +197,10 @@
 			isa = PBXGroup;
 			children = (
 				B3C2E3D32354122D00239839 /* Injector */,
+				B3C2E3D7235C859500239839 /* Mocks */,
+				B3C2E3DF235C9F0B00239839 /* Networking */,
+				B3C2E3D4235C837200239839 /* Services */,
+				B3C2E3DC235C974700239839 /* Stubbs */,
 				B35AF6CF2353341200E79823 /* Info.plist */,
 			);
 			path = FourSquareProjectTests;
@@ -282,6 +310,46 @@
 			path = Injector;
 			sourceTree = "<group>";
 		};
+		B3C2E3D4235C837200239839 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				B3C2E3EC235CD24800239839 /* NeighborPlacesServiceSpec.swift */,
+				B3C2E3EE235CD6BC00239839 /* PlaceServiceSpec.swift */,
+				B3C2E3E4235CA89800239839 /* PlacesServiceSpec.swift */,
+				B3C2E3D5235C83B600239839 /* UserLocationServiceSpec.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		B3C2E3D7235C859500239839 /* Mocks */ = {
+			isa = PBXGroup;
+			children = (
+				B3C2E3D8235C85AE00239839 /* LocationManagerMock.swift */,
+				B3C2E3EA235CD03B00239839 /* PlacesServiceMock.swift */,
+				B3C2E3DA235C92B700239839 /* UserLocationServiceMock.swift */,
+			);
+			path = Mocks;
+			sourceTree = "<group>";
+		};
+		B3C2E3DC235C974700239839 /* Stubbs */ = {
+			isa = PBXGroup;
+			children = (
+				B3C2E3F0235CD7EF00239839 /* place.json */,
+				B3C2E3DD235C975C00239839 /* places.json */,
+			);
+			path = Stubbs;
+			sourceTree = "<group>";
+		};
+		B3C2E3DF235C9F0B00239839 /* Networking */ = {
+			isa = PBXGroup;
+			children = (
+				B3C2E3E0235C9F5600239839 /* Request+Stubs.swift */,
+				B3C2E3E8235CC56C00239839 /* RequestManagerErroredMock.swift */,
+				B3C2E3E2235CA1E700239839 /* RequestManagerMock.swift */,
+			);
+			path = Networking;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -375,6 +443,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B3C2E3F1235CD7EF00239839 /* place.json in Resources */,
+				B3C2E3DE235C975C00239839 /* places.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -481,7 +551,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B3C2E3D9235C85AE00239839 /* LocationManagerMock.swift in Sources */,
+				B3C2E3E1235C9F5600239839 /* Request+Stubs.swift in Sources */,
+				B3C2E3D6235C83B600239839 /* UserLocationServiceSpec.swift in Sources */,
+				B3C2E3E9235CC56C00239839 /* RequestManagerErroredMock.swift in Sources */,
+				B3C2E3E5235CA89800239839 /* PlacesServiceSpec.swift in Sources */,
+				B3C2E3E3235CA1E700239839 /* RequestManagerMock.swift in Sources */,
+				B3C2E3ED235CD24800239839 /* NeighborPlacesServiceSpec.swift in Sources */,
+				B3C2E3EF235CD6BC00239839 /* PlaceServiceSpec.swift in Sources */,
 				B35AF6CE2353341200E79823 /* InjectorTests.swift in Sources */,
+				B3C2E3EB235CD03B00239839 /* PlacesServiceMock.swift in Sources */,
+				B3C2E3DB235C92B700239839 /* UserLocationServiceMock.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

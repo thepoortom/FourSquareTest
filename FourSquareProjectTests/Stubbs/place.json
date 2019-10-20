@@ -1,0 +1,516 @@
+{
+   "id":"4d3295d7ceb62d43366cea61",
+   "name":"Пельменная",
+   "contact":{
+      "phone":"+73912647550",
+      "formattedPhone":"+7 391 264-75-50"
+   },
+   "location":{
+      "address":"пр. Красноярский Рабочий, 66",
+      "crossStreet":"ООО «Евгения»",
+      "lat":56.01163902219007,
+      "lng":92.96849544579148,
+      "labeledLatLngs":[
+         {
+            "label":"display",
+            "lat":56.01163902219007,
+            "lng":92.96849544579148
+         }
+      ],
+      "distance":332,
+      "cc":"RU",
+      "city":"Красноярск",
+      "state":"Красноярский край",
+      "country":"Россия",
+      "formattedAddress":[
+         "пр. Красноярский Рабочий, 66 (ООО «Евгения»)",
+         "Красноярск",
+         "Россия"
+      ]
+   },
+   "canonicalUrl":"https:\/\/foursquare.com\/v\/%D0%BF%D0%B5%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F\/4d3295d7ceb62d43366cea61",
+   "categories":[
+      {
+         "id":"52e928d0bcbc57f1066b7e9c",
+         "name":"Пельменная",
+         "pluralName":"Пельменные",
+         "shortName":"Пельмени",
+         "icon":{
+            "prefix":"https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+            "suffix":".png"
+         },
+         "primary":true
+      }
+   ],
+   "verified":false,
+   "stats":{
+      "tipCount":6
+   },
+   "likes":{
+      "count":17,
+      "groups":[
+         {
+            "type":"others",
+            "count":17,
+            "items":[
+
+            ]
+         }
+      ],
+      "summary":"Лайки:17"
+   },
+   "dislike":false,
+   "ok":false,
+   "rating":6.6,
+   "ratingColor":"FFC800",
+   "ratingSignals":31,
+   "allowMenuUrlEdit":true,
+   "beenHere":{
+      "count":0,
+      "unconfirmedCount":0,
+      "marked":false,
+      "lastCheckinExpiredAt":0
+   },
+   "specials":{
+      "count":0,
+      "items":[
+
+      ]
+   },
+   "photos":{
+      "count":16,
+      "groups":[
+         {
+            "type":"checkin",
+            "name":"Фотографии чекинов друзей",
+            "count":0,
+            "items":[
+
+            ]
+         },
+         {
+            "type":"venue",
+            "name":"Фотографии заведения",
+            "count":16,
+            "items":[
+               {
+                  "id":"4f8fd5e8e4b000f3fb9ef58b",
+                  "createdAt":1334826472,
+                  "source":{
+                     "name":"Foursquare for iOS",
+                     "url":"https:\/\/foursquare.com\/download\/#\/iphone"
+                  },
+                  "prefix":"https:\/\/fastly.4sqi.net\/img\/general\/",
+                  "suffix":"\/ThSALoFgrdFtaxEsuuyUVLPbteSYkteNbure2flzYGg.jpg",
+                  "width":720,
+                  "height":540,
+                  "user":{
+                     "id":"1663156",
+                     "firstName":"♐ uıʞlǝɹʇs",
+                     "gender":"male",
+                     "photo":{
+                        "prefix":"https:\/\/fastly.4sqi.net\/img\/user\/",
+                        "suffix":"\/4W02IV5LGC4M0PDF.png"
+                     }
+                  },
+                  "visibility":"public"
+               }
+            ]
+         }
+      ],
+      "summary":"0 фотографий"
+   },
+   "reasons":{
+      "count":0,
+      "items":[
+
+      ]
+   },
+   "hereNow":{
+      "count":0,
+      "summary":"Здесь никого нет",
+      "groups":[
+
+      ]
+   },
+   "createdAt":1295160791,
+   "tips":{
+      "count":6,
+      "groups":[
+         {
+            "type":"others",
+            "name":"Все подсказки",
+            "count":6,
+            "items":[
+               {
+                  "id":"51c553c2498efa7848edde10",
+                  "createdAt":1371886530,
+                  "text":"Все божественно вкусно!) и сытно!) и дешево) лучше любого ресторана или кафе)) посетив один раз - оставляешь свой желудок навеки \"в рабстве\" у Евгении:)",
+                  "type":"user",
+                  "canonicalUrl":"https:\/\/foursquare.com\/item\/51c553c2498efa7848edde10",
+                  "likes":{
+                     "count":11,
+                     "groups":[
+                        {
+                           "type":"others",
+                           "count":11,
+                           "items":[
+
+                           ]
+                        }
+                     ],
+                     "summary":"Лайки:11 "
+                  },
+                  "logView":true,
+                  "agreeCount":11,
+                  "disagreeCount":0,
+                  "todo":{
+                     "count":0
+                  },
+                  "user":{
+                     "id":"41151259",
+                     "firstName":"Александр",
+                     "lastName":"Вензель",
+                     "gender":"none",
+                     "photo":{
+                        "prefix":"https:\/\/fastly.4sqi.net\/img\/user\/",
+                        "suffix":"\/41151259-WNLK3HG1UANSYHTW.jpg"
+                     }
+                  },
+                  "authorInteractionType":"liked"
+               }
+            ]
+         }
+      ]
+   },
+   "shortUrl":"http:\/\/4sq.com\/jIQtdg",
+   "timeZone":"Asia\/Krasnoyarsk",
+   "listed":{
+      "count":2,
+      "groups":[
+         {
+            "type":"others",
+            "name":"Списки других пользователей",
+            "count":2,
+            "items":[
+               {
+                  "id":"5162f356e4b02b32f931f3c7",
+                  "name":"Красноярск",
+                  "description":"",
+                  "type":"others",
+                  "user":{
+                     "id":"4494672",
+                     "firstName":"Kupriyanov",
+                     "lastName":"Oleg",
+                     "gender":"male",
+                     "photo":{
+                        "prefix":"https:\/\/fastly.4sqi.net\/img\/user\/",
+                        "suffix":"\/CGZC1HNGIBM2PMVC.jpg"
+                     }
+                  },
+                  "editable":false,
+                  "public":true,
+                  "collaborative":false,
+                  "url":"\/zurg_andreich\/list\/%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%8F%D1%80%D1%81%D0%BA",
+                  "canonicalUrl":"https:\/\/foursquare.com\/zurg_andreich\/list\/%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%8F%D1%80%D1%81%D0%BA",
+                  "createdAt":1365439318,
+                  "updatedAt":1365439667,
+                  "followers":{
+                     "count":0
+                  },
+                  "listItems":{
+                     "count":10,
+                     "items":[
+                        {
+                           "id":"v4d3295d7ceb62d43366cea61",
+                           "createdAt":1365439397
+                        }
+                     ]
+                  }
+               },
+               {
+                  "id":"557d46c6498eed5a32d3b3fe",
+                  "name":"Еда",
+                  "description":"",
+                  "type":"others",
+                  "user":{
+                     "id":"23389575",
+                     "firstName":"Юрий",
+                     "lastName":"Хоноженко",
+                     "gender":"male",
+                     "photo":{
+                        "prefix":"https:\/\/fastly.4sqi.net\/img\/user\/",
+                        "suffix":"\/23389575-GDIDDMURINULSQSA.jpg"
+                     }
+                  },
+                  "editable":false,
+                  "public":true,
+                  "collaborative":false,
+                  "url":"\/yukho74\/list\/%D0%B5%D0%B4%D0%B0",
+                  "canonicalUrl":"https:\/\/foursquare.com\/yukho74\/list\/%D0%B5%D0%B4%D0%B0",
+                  "createdAt":1434273478,
+                  "updatedAt":1434273570,
+                  "photo":{
+                     "id":"4f8fd5e8e4b000f3fb9ef58b",
+                     "createdAt":1334826472,
+                     "prefix":"https:\/\/fastly.4sqi.net\/img\/general\/",
+                     "suffix":"\/ThSALoFgrdFtaxEsuuyUVLPbteSYkteNbure2flzYGg.jpg",
+                     "width":720,
+                     "height":540,
+                     "user":{
+                        "id":"1663156",
+                        "firstName":"♐ uıʞlǝɹʇs",
+                        "gender":"male",
+                        "photo":{
+                           "prefix":"https:\/\/fastly.4sqi.net\/img\/user\/",
+                           "suffix":"\/4W02IV5LGC4M0PDF.png"
+                        }
+                     },
+                     "visibility":"public"
+                  },
+                  "followers":{
+                     "count":0
+                  },
+                  "listItems":{
+                     "count":2,
+                     "items":[
+                        {
+                           "id":"v4d3295d7ceb62d43366cea61",
+                           "createdAt":1434273478,
+                           "photo":{
+                              "id":"4f8fd5e8e4b000f3fb9ef58b",
+                              "createdAt":1334826472,
+                              "prefix":"https:\/\/fastly.4sqi.net\/img\/general\/",
+                              "suffix":"\/ThSALoFgrdFtaxEsuuyUVLPbteSYkteNbure2flzYGg.jpg",
+                              "width":720,
+                              "height":540,
+                              "user":{
+                                 "id":"1663156",
+                                 "firstName":"♐ uıʞlǝɹʇs",
+                                 "gender":"male",
+                                 "photo":{
+                                    "prefix":"https:\/\/fastly.4sqi.net\/img\/user\/",
+                                    "suffix":"\/4W02IV5LGC4M0PDF.png"
+                                 }
+                              },
+                              "visibility":"public"
+                           }
+                        }
+                     ]
+                  }
+               }
+            ]
+         }
+      ]
+   },
+   "hours":{
+      "status":"Закрыто до 10:00",
+      "richStatus":{
+         "entities":[
+
+         ],
+         "text":"Закрыто до 10:00"
+      },
+      "isOpen":false,
+      "isLocalHoliday":false,
+      "dayData":[
+
+      ],
+      "timeframes":[
+         {
+            "days":"Пн\u2013Сб",
+            "includesToday":true,
+            "open":[
+               {
+                  "renderedTime":"10:00\u201318:00"
+               }
+            ],
+            "segments":[
+
+            ]
+         }
+      ]
+   },
+   "popular":{
+      "isOpen":false,
+      "isLocalHoliday":false,
+      "timeframes":[
+         {
+            "days":"Сегодня",
+            "includesToday":true,
+            "open":[
+               {
+                  "renderedTime":"11:00\u201316:00"
+               }
+            ],
+            "segments":[
+
+            ]
+         },
+         {
+            "days":"Вт",
+            "open":[
+               {
+                  "renderedTime":"Полдень\u201317:00"
+               }
+            ],
+            "segments":[
+
+            ]
+         },
+         {
+            "days":"Ср",
+            "open":[
+               {
+                  "renderedTime":"Полдень\u201318:00"
+               }
+            ],
+            "segments":[
+
+            ]
+         },
+         {
+            "days":"Чт",
+            "open":[
+               {
+                  "renderedTime":"10:00\u201318:00"
+               }
+            ],
+            "segments":[
+
+            ]
+         },
+         {
+            "days":"Пт",
+            "open":[
+               {
+                  "renderedTime":"11:00\u201318:00"
+               }
+            ],
+            "segments":[
+
+            ]
+         },
+         {
+            "days":"Сб",
+            "open":[
+               {
+                  "renderedTime":"10:00\u201318:00"
+               }
+            ],
+            "segments":[
+
+            ]
+         },
+         {
+            "days":"Вс",
+            "open":[
+               {
+                  "renderedTime":"Ничего"
+               }
+            ],
+            "segments":[
+
+            ]
+         }
+      ]
+   },
+   "pageUpdates":{
+      "count":0,
+      "items":[
+
+      ]
+   },
+   "inbox":{
+      "count":0,
+      "items":[
+
+      ]
+   },
+   "attributes":{
+      "groups":[
+         {
+            "type":"reservations",
+            "name":"Бронирование",
+            "count":3,
+            "items":[
+               {
+                  "displayName":"Бронирование",
+                  "displayValue":"Нет"
+               }
+            ]
+         },
+         {
+            "type":"payments",
+            "name":"Кредитные карты",
+            "summary":"Кредитные карты не принимаются",
+            "count":5,
+            "items":[
+               {
+                  "displayName":"Кредитные карты",
+                  "displayValue":"Нет"
+               }
+            ]
+         },
+         {
+            "type":"serves",
+            "name":"Меню",
+            "summary":"Поздний завтрак",
+            "count":8,
+            "items":[
+               {
+                  "displayName":"Поздний завтрак",
+                  "displayValue":"Поздний завтрак"
+               }
+            ]
+         },
+         {
+            "type":"diningOptions",
+            "name":"Варианты обеда",
+            "count":5,
+            "items":[
+               {
+                  "displayName":"Доставка",
+                  "displayValue":"Доставки нет"
+               }
+            ]
+         },
+         {
+            "type":"restroom",
+            "name":"Есть туалет",
+            "summary":"Есть туалет",
+            "count":1,
+            "items":[
+               {
+                  "displayName":"Есть туалет",
+                  "displayValue":"Да"
+               }
+            ]
+         }
+      ]
+   },
+   "bestPhoto":{
+      "id":"4f8fd5e8e4b000f3fb9ef58b",
+      "createdAt":1334826472,
+      "source":{
+         "name":"Foursquare for iOS",
+         "url":"https:\/\/foursquare.com\/download\/#\/iphone"
+      },
+      "prefix":"https:\/\/fastly.4sqi.net\/img\/general\/",
+      "suffix":"\/ThSALoFgrdFtaxEsuuyUVLPbteSYkteNbure2flzYGg.jpg",
+      "width":720,
+      "height":540,
+      "visibility":"public"
+   },
+   "colors":{
+      "highlightColor":{
+         "photoId":"4f8fd5e8e4b000f3fb9ef58b",
+         "value":-15198192
+      },
+      "highlightTextColor":{
+         "photoId":"4f8fd5e8e4b000f3fb9ef58b",
+         "value":-1
+      },
+      "algoVersion":3
+   }
+}

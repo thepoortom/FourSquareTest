@@ -8,4 +8,5 @@
 
 enum AppError: Error {
     case networkError
+    case sampleDataFetchingError
 }
